@@ -1,2 +1,1 @@
-# rust-replication
-Replication of main results in Rust (1987)
+# Replication of main results in Rust (1987)
